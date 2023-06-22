@@ -1,0 +1,6 @@
+mix-manifest.json
+css/
+js/
+img/
+images/
+!.gitignore
